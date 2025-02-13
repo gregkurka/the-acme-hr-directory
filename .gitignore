@@ -1,0 +1,7 @@
+#folders
+node_modules
+
+#files
+.env
+package-lock.json
+DS_Store
